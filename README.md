@@ -6,10 +6,10 @@ A project developed for fun using a simple computer graphics and image processin
   <table>
     <tr>
       <td align="center">
-        <video src="OIIA-Cat.mp4" autoplay loop muted width="350px"></video>
+        <img src="OIIAI-Original.gif" width="350px">
       </td>
       <td align="center">
-        <video src="assciiOIIA.mp4" autoplay loop muted width="350px"></video>
+        <img src="OIIAI-ASSCII.gif" width="350px">
       </td>
     </tr>
   </table>
