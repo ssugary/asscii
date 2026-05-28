@@ -1,0 +1,7 @@
+frames/
+*.o
+*.out
+ascii_render
+build/
+.vscode/
+.DS_Store
